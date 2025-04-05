@@ -22,3 +22,4 @@ This project is built using React and Vite for fast and efficient development ex
    ```
 3. Watch the demonstration video:
    [Demo Video](https://drive.google.com/file/d/1D3a5svvC0p-7Wa9JNgGkd3UrcFmfMF6Y/view?usp=drive_link)
+   Note: System not able to capture the dropdown expand items list ,thats why it is not visible in video
