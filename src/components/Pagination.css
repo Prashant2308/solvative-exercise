@@ -1,0 +1,29 @@
+.pagination-wrapper{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap:8px
+}
+.pagination-wrapper input{
+  height: 38px;
+  font-size: 16px;
+  padding: 6px 12px;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid rgb(206, 212, 218);
+  border-radius: 4px;
+  outline: none;
+}
+.pagination-wrapper button{
+  cursor: pointer;
+  height: 38px;
+  font-size: 16px;
+  padding: 6px 12px;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid rgb(206, 212, 218);
+  border-radius: 4px;
+  outline: none;
+}
+.current-item{
+  font-weight: bold;
+  color: #7952b3;
+}
