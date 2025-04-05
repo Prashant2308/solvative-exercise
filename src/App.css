@@ -1,0 +1,24 @@
+
+
+
+
+.grid{
+  display: grid;
+}
+.grid-cols-2{
+  grid-template-columns: 2fr auto;
+}
+
+
+.card{
+  border:1px solid grey;
+  padding: 12px 16px;
+  width: 300px;
+}
+.product-container{
+  display: flex;
+  padding:24px;
+  gap:16px;
+  flex-wrap: wrap;
+}
+
